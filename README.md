@@ -9,3 +9,6 @@ Created a webpage that displays the system time with a clock with seconds, minut
 
 ## Day 3
 Learnt how to update values of different CSS variables in real time on the webpage by using JavaScript.
+
+## Day 4 
+Practiced the usage of certain functions(map, fliter, sort, reduce) on arrays.
