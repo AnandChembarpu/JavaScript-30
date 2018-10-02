@@ -8,7 +8,7 @@ Created a webpage that takes keyboard input and produces a specific sound for di
 Created a webpage that displays the system time with a clock with seconds, minutes and hours hands.  
 
 ## Day 3
-Learnt how to update values of different CSS variables in real time on the webpage by using JavaScript.
+Learnt how to update values of different CSS variables in real time on the webpage.
 
 ## Day 4 
 Practiced the usage of certain functions(map, fliter, sort, reduce) on arrays.
