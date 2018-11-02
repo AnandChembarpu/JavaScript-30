@@ -12,3 +12,6 @@ Learnt how to update values of different CSS variables in real time on the webpa
 
 ## Day 4 
 Practiced the usage of certain functions(map, fliter, sort, reduce) on arrays.
+
+## Day 5
+Created a Panel Gallery using flex and some JavaScript, learnt more about the 'transitionend' event.
